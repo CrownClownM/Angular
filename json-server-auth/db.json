@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "ole@ole.com",
+      "password": "$2a$10$VCbQsoaGCFboL0P4.9.PB.ozz9camxdvnPtKWcHkuK8A1SdPdYavK",
+      "id": 1
+    },
+    {
+      "email": "ole2@ole.com",
+      "password": "$2a$10$JP4kdlYP.Lg.XI18tPZbg.VYXtEQlA/Ixm91yPuYviFcZx3s89Ryu",
+      "name": "Steven",
+      "lastName": "Medina",
+      "id": 2
+    }
+  ]
+}
